@@ -2,7 +2,8 @@
 
 I am a student developer from the Philippines with an interest in web applications and AI.
 
-**My Tech Stack**
+---
+
 ### My Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -13,6 +14,8 @@ I am a student developer from the Philippines with an interest in web applicatio
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
+---
+
 - 🌱 I’m currently learning **Next.js**, **Cloud Deployment**, and **DevOps**.
 - 🚀 Project I'm Working On: **[Fabriqly](https://github.com/Fabriqly/Fabriqly)**
-- 📫 You can reach me at: **rodmayol82@gmail.com**
+- 📫 You can reach me at: **[rodmayol82@gmail.com](mailto:rodmayol82@gmail.com)**
