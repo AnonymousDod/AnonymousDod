@@ -1,23 +1,16 @@
-# Hi, I'm Rod Kent Ito! 👋
+### Hi, I'm Rod Kent Ito 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=33FF33&width=435&lines=Aspiring+Software+Developer;Always+Learning;Web+%26+AI+Enthusiast)
+I am a student developer from the Philippines with an interest in web applications and AI.
 
----
-
-### 📫 Let's Connect:
+**My Tech Stack**
 <p align="left">
-  </p>
-
-### 💻 My Tech Stack:
-<p align="left">
-  </p>
-
-### 📊 My GitHub Stats & Trophies:
-![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AnonymousDod&theme=radical&column=4)
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnonymousDod&show_icons=true&theme=radical)
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousDod&layout=compact&theme=radical)
-
----
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnonymousDod%2F&countColor=%23263759&style=flat" alt="Visitors"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
+
+🌱 **Currently Learning:** Next.js, Cloud Deployment, DevOps
+<br>
+📫 **Contact:** rodkent@example.com
