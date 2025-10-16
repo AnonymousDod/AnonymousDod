@@ -8,4 +8,4 @@ Hi, I'm Rod Kent! 👋 I am a student from the Philippines learning software dev
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousDod&layout=compact&theme=radical)
 
-![My Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=radical)****
+![My Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnonymousDod&theme=radical)****
