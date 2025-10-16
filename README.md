@@ -4,4 +4,4 @@ Hi, I'm Rod Kent! 👋 I am a student from the Philippines learning software dev
 
 🌱 Currently learning: Next.js, Cloud Deployment, DevOps
 
-🚀 Projects I'm Working On: https://github.com/Fabriqly/Fabriqly
+🚀 Project I'm Working On: https://github.com/Fabriqly/Fabriqly
