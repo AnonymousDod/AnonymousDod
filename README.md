@@ -24,7 +24,7 @@ I am a student developer from the Philippines with a passion for building modern
 
 ### Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/Rod Kent Ito" target="_blank">
+  <a href="[https://www.linkedin.com/in/rod-kent-ito-b96950387/]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rodmayol82@gmail.com">
