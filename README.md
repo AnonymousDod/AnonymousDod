@@ -4,6 +4,10 @@ I am a student developer from the Philippines with a passion for building modern
 
 ---
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnonymousDod&show_icons=true&theme=radical)
+
+---
+
 ### My Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
