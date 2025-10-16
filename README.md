@@ -1,6 +1,6 @@
 ### Hi, I'm Rod Kent Ito 👋
 
-I am a student developer from the Philippines with an interest in web applications and AI.
+I am a student developer from the Philippines with a passion for building modern web applications and exploring AI.
 
 ---
 
@@ -16,6 +16,18 @@ I am a student developer from the Philippines with an interest in web applicatio
 
 ---
 
-- 🌱 I’m currently learning **Next.js**, **Cloud Deployment**, and **DevOps**.
-- 🚀 Project I'm Working On: **[Fabriqly](https://github.com/Fabriqly/Fabriqly)**
-- 📫 You can reach me at: **[rodmayol82@gmail.com](mailto:rodmayol82@gmail.com)**
+- 🌱 I’m currently learning more about **Cloud Deployment** and **DevOps**.
+- 🚀 Project I'm Working On: **[Fabriqly](https://github.com/Fabriqly/Fabriqly)** - A platform for custom apparel design.
+- 🤝 I'm open to collaborating on interesting web and AI projects.
+
+---
+
+### Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-Rod Kent Ito" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rodmayol82@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
