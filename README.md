@@ -5,3 +5,5 @@ Hi, I'm Rod Kent! 👋 I am a student from the Philippines learning software dev
 🌱 Currently learning: Next.js, Cloud Deployment, DevOps
 
 🚀 Project I'm Working On: https://github.com/Fabriqly/Fabriqly
+
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousDod&layout=compact&theme=radical)
