@@ -7,3 +7,5 @@ Hi, I'm Rod Kent! 👋 I am a student from the Philippines learning software dev
 🚀 Project I'm Working On: https://github.com/Fabriqly/Fabriqly
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousDod&layout=compact&theme=radical)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=33FF33&width=435&lines=Aspiring+Software+Developer;Always+Learning;Web+%26+AI+Enthusiast)
