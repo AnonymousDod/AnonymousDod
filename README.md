@@ -12,5 +12,5 @@ I am a student developer from the Philippines with an interest in web applicatio
 </p>
 
 - 🌱 I’m currently learning **Next.js**, **Cloud Deployment**, and **DevOps**.
-- 🚀 I'm building **[Fabriqly](https://github.com/AnonymousDod/fabriqly)**, a web application project.
+- 🚀 Project I'm Working On: **[Fabriqly](https://github.com/AnonymousDod/fabriqly)**
 - 📫 You can reach me at: **rodkent@example.com**
